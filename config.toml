@@ -1,6 +1,6 @@
 baseURL = "https://genericspecimen.github.io/blog/"
 languageCode = "en-us"
-title = "genericSpecimen's blog"
+title = "A generic blog"
 canonifyurls = true
 theme = "scratch"
 publishDir="docs"
