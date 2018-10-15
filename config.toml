@@ -5,6 +5,7 @@ canonifyurls = true
 theme = "scratch"
 publishDir="docs"
 paginate = 10
+googleAnalytics = "UA-127407677-1"
 
 summaryLength = 30
 enableEmoji = true
