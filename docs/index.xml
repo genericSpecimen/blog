@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All posts on genericSpecimen&#39;s blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content in All posts on genericSpecimen&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This is a general purpose blog meant for documenting the things I learn and some posts would also double as tutorials.
+I delved into programming at the age of 16. Before that, I had a keen interest in Physics, which gradually faded since the computing world had already gotten a hold of my mind.</description>
+    </item>
+    
+    <item>
+      <title>FOSS Android Applications</title>
+      <link>http://example.org/posts/foss/foss-android-applications/</link>
+      <pubDate>Mon, 15 Oct 2018 16:02:52 +0530</pubDate>
+      
+      <guid>http://example.org/posts/foss/foss-android-applications/</guid>
+      <description>Android is an open source linux-based mobile operating system.
+ While this statement can be considered to be true, there&amp;rsquo;s more to keep in mind. Android seems to be on it&amp;rsquo;s way to becoming more and more of an proprietary operating system.</description>
+    </item>
+    
+    <item>
+      <title>The Android Debug Bridge</title>
+      <link>http://example.org/posts/foss/the_android_debug_bridge/</link>
+      <pubDate>Sun, 14 Oct 2018 16:35:23 +0530</pubDate>
+      
+      <guid>http://example.org/posts/foss/the_android_debug_bridge/</guid>
+      <description>Android Debug Bridge (adb) is a command-line tool that lets you communicate with an actual device or an emulator. If you have experience with developing Android applications, you might be quite familiar with this nifty tool.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Sun, 14 Oct 2018 16:05:55 +0530</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

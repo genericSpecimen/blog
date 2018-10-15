@@ -1,7 +1,7 @@
 ---
 title: "The Android Debug Bridge"
 date: 2018-10-14T16:35:23+05:30
-draft: true
+draft: false
 ---
 Android Debug Bridge (_**adb**_) is a command-line tool that lets you communicate with an actual device or an emulator. If you have experience with developing Android applications, you might be quite familiar with this nifty tool. This tool allows you to install and debug applications and also provides you access to the Unix shell on your Android device. If you don't have experience with developing Android applications, don't fret! This post won't be requiring knowledge of those aspects anyway. Instead, we will be focussing on how users of an Android device might make use of this tool in their daily lives.
 

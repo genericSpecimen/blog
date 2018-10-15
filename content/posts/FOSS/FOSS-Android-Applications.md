@@ -1,7 +1,7 @@
 ---
 title: "FOSS Android Applications"
 date: 2018-10-15T16:02:52+05:30
-draft: true
+draft: false
 ---
 
 > Android is an open source linux-based mobile operating system.
