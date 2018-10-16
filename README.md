@@ -1,0 +1,1 @@
+Check out my blog [here](https://genericspecimen.github.io/blog/)!

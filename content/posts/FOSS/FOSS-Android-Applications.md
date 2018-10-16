@@ -26,7 +26,7 @@ Let's take a look at some of the other FOSS Android Application alternatives. Th
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): A lightweight Youtube frontend for Android. Includes in-built options to download video and audio. Since the day I installed this, I've never found a reason to go back to the ad-bloated YouTube app.
 * [**Odyssey Music Player**](https://github.com/gateship-one/odyssey): Music player that is optimized for speed (even with large music libraries).
 * [**primitive ftpd**](https://github.com/wolpi/prim-ftpd): A simple FTP and SFTP (SSH file transfer) server. Allows to exchange files with other machines over WiFi.
-* [**Simple-Gallery, Simple-Calendar, Simple-Contacts**]: (https://simplemobiletools.github.io/): A group of simple, stupid, open source Android apps with customizable widgets, without annoying ads and unnecessary permissions.
+* [**Simple Mobile Tools**](https://simplemobiletools.github.io/): A group of simple, open source Android apps with customizable widgets, without annoying ads and unnecessary permissions. The group includes a calendar, contacts, gallery and many more apps.
 * [**WiFiAnalyzer**](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer): A powerful Android application to analyze WiFi signals.
 
 #### Reference links:
