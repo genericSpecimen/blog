@@ -44,7 +44,7 @@ I hope this day comes soon.
 In conclusion, DRM proves to be of no use rather than providing inconveniences to legitimate customers. If you are concerned about the content creators being paid, consider giving them direct donations, rather than relying on DRM.
 
 
-[FCKDRM](https://fckdrm.com/) is an initiative to promote DRM-free media. It lists DRM-free sources to get music, games, books, and videos. [Defective by Design](https://www.defectivebydesign.org/) is another site to focussed on eliminating DRM. Here's the [Electronic Frontier Foundation's article](https://www.eff.org/issues/drm) on DRM. EFF is a nonprofit organization defending civil liberties in the digital world.
+[FCKDRM](https://fckdrm.com/) is an initiative to promote DRM-free media. It lists DRM-free sources to get music, games, books, and videos. [Defective by Design](https://www.defectivebydesign.org/) is another site focussed on eliminating DRM. Here's the [Electronic Frontier Foundation's article](https://www.eff.org/issues/drm) on DRM. EFF is a nonprofit organization defending civil liberties in the digital world.
 
 #### Reference links:
 * [Linus Tech Tips' Video](https://youtu.be/M3bezYerYxQ)
