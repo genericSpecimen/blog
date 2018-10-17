@@ -23,7 +23,7 @@ Let's take a look at some of the other FOSS Android Application alternatives. Th
 * [**Call Recorder**](https://gitlab.com/axet/android-call-recorder): A simple call recorder app with no ads. Most phones does not support call recording. See the README.md file in case it doesn't work for you. I've tested this on my Xiaomi Mi A1 and it works great.
 * [**Memento**](https://github.com/yaa110/Memento/blob/HEAD/README.md): Note taking application.
 * [**Net Monitor**](https://secuso.aifb.kit.edu/Net_Monitor.php): Net Monitor monitors active network activity and provides information on the scanned connections and apps.
-* [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): A lightweight Youtube frontend for Android. Includes in-built options to download video and audio. Since the day I installed this, I've never found a reason to go back to the ad-bloated YouTube app.
+* [**NewPipe**](https://github.com/TeamNewPipe/NewPipe): A lightweight Youtube frontend for Android. Includes in-built options to download video and audio.
 * [**Odyssey Music Player**](https://github.com/gateship-one/odyssey): Music player that is optimized for speed (even with large music libraries).
 * [**primitive ftpd**](https://github.com/wolpi/prim-ftpd): A simple FTP and SFTP (SSH file transfer) server. Allows to exchange files with other machines over WiFi.
 * [**Simple Mobile Tools**](https://simplemobiletools.github.io/): A group of simple, open source Android apps with customizable widgets, without annoying ads and unnecessary permissions. The group includes a calendar, contacts, gallery and many more apps.

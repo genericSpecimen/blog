@@ -18,7 +18,7 @@
       
       <guid>https://genericspecimen.github.io/blog/about/</guid>
       <description>This is a general purpose blog meant for documenting the things I learn and some posts would also double as tutorials.
-I delved into programming at the age of 16. Before that, I had a keen interest in Physics, which gradually faded since the computing world had already gotten a hold of my mind.</description>
+I started programming at the age of 16. Before that, I had a keen interest in Physics, which gradually faded since the computing world had already gotten a hold of my mind.</description>
     </item>
     
     <item>
@@ -41,12 +41,12 @@ I delved into programming at the age of 16. Before that, I had a keen interest i
     </item>
     
     <item>
-      <title>Test</title>
+      <title>A beginning</title>
       <link>https://genericspecimen.github.io/blog/posts/test/</link>
       <pubDate>Sun, 14 Oct 2018 16:05:55 +0530</pubDate>
       
       <guid>https://genericspecimen.github.io/blog/posts/test/</guid>
-      <description></description>
+      <description> This post marks the beginning of this blog. </description>
     </item>
     
   </channel>
