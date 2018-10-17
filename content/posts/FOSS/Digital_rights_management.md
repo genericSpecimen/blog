@@ -1,7 +1,7 @@
 ---
 title: "Digital Rights Management"
 date: 2018-10-17T16:25:54+05:30
-draft: true
+draft: false
 ---
 
 Digital rights management (DRM) is a term that is used to refer to technologies that restrict the usage of copyrighted material, including hardware and software. In layman's terms, DRM controls how you can use your music, videos, games, books, etc (which you have acquired legally).

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <link rel="icon" type="image/png" href="https://genericspecimen.github.io/blog/images/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://genericspecimen.github.io/blog/images/favicon-16x16.png" sizes="16x16" />
+    <title>A generic blog</title>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Random tidbits about programming." />
+<meta name="author" content="Irfan Sheikh"/>
+<meta name="generator" content="Hugo 0.49" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+<link rel="stylesheet" type="text/css" href="https://genericspecimen.github.io/blog/css/styles.css" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127407677-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127407677-1');
+</script>
+<button onclick="topFunction()" id="myBtn" title="Go to top">&uarr; Top</button> 
+    <script type="text/javascript">
+        window.onscroll = function() {scrollFunction()};
+        function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("myBtn").style.display = "block";
+        } else {
+            document.getElementById("myBtn").style.display = "none";
+        }
+    }
+
+    
+    function topFunction() {
+        document.body.scrollTop = 0; 
+        document.documentElement.scrollTop = 0; 
+    } 
+    </script>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1>
+                <a href="https://genericspecimen.github.io/blog/"> A generic blog </a>
+            </h1>
+
+            <ul id="social-media">
+                
+                    <li><a href="https://github.com/genericSpecimen"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
+                
+                
+                
+            </ul>
+            
+                <p><em> Yet another blog </em></p>
+            
+        </header>
+
+        
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://genericspecimen.github.io/blog/">
+                <i class="fa-li fa  fa-lg"></i><span>All posts</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="https://genericspecimen.github.io/blog/posts/foss/">
+                <i class="fa-li fa  fa-lg"></i><span>FOSS</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="https://genericspecimen.github.io/blog/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+        <main>
+            
+
+
+
+<article>
+    <h1> Digital Rights Management </h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2018-10-17T16:25:54&#43;05:30">Oct 17, 2018</time>
+        </li>
+
+        
+
+        
+
+        <li>5 min read</li>
+    </ul>
+</aside>
+    
+
+    
+
+<p>Digital rights management (DRM) is a term that is used to refer to technologies that restrict the usage of copyrighted material, including hardware and software. In layman&rsquo;s terms, DRM controls how you can use your music, videos, games, books, etc (which you have acquired legally).</p>
+
+<p>Supporters of DRM say that <em>DRM technologies in software are analogous to physical locks on our doors that prevent personal property from being stolen.</em></p>
+
+<p>In this post, we will be taking a look at how DRM has proved to be a failure in the aspect of <em>&ldquo;preventing personal property from being stolen&rdquo;</em> and has proven to be nothing but a nuisance and a massive inconvenience to legitimate customers.</p>
+
+<p>Let&rsquo;s go over a few scenarios we might have encountered in our lives.</p>
+
+<ul>
+<li><p>You paid for a software, and installed it on your system. After some time, you realized your system is getting slower day by day. So you decide to reinstall your operating system and try to reinstall the aforementioned software onto your system. But what&rsquo;s that? An error came up that said &ldquo;Installation limit has been exceeded. Please buy another copy of this software.&rdquo; (Okay, that may be a bit exaggerated, usually softwares have more than one installtion limit, but you get the gist.) The DRM-protection on the software restricted you to install it again, even on your own system, on which you had already installed. Since you bought the software, you would expect to install it as many times you want, whenever you want.
+<a href="https://youtu.be/M3bezYerYxQ">This video</a> by Linus Tech Tips is a recent example of such an issue, wherein, Linus, being a hardware technology reviewer has to frequently change hardware components in his PC to test different products. But, Windows 10 has a limited number of activations. Microsoft&rsquo;s activation server creates a unique identifier for your PC based on the hardware that you&rsquo;ve installed Windows on. Hardware changes to your system may result in your PC being detected as a new PC which isn&rsquo;t activated. It isn&rsquo;t exactly clear what sort hardware changes will trigger this activation issue in Windows 10, though the video talks about for a bit.</p></li>
+
+<li><p>You have subscribed to an online media streaming service by paying an amount of fee. You come home after a long day at work, hoping to finally watch that TV show episode which you were putting off for some time due to work. You switch on your system, try to open the streaming website, only to realize your internet is down. You wonder about how convenient it&rsquo;d have been if you had an offline copy so that you could have watched it even when you have no internet. <em>Why didn&rsquo;t you have an offline copy, then?</em> Because the streaming service&rsquo;s DRM protection restricted you from having an offline copy. To me, this is a blatant disregard towards the customer&rsquo;s rights. If we have paid for something, <strong>we</strong> should be able to access it whenever we want, however we want to.</p></li>
+
+<li><p>You bought a digital book online, which you can only access through the portal that sells these e-books. One day, you tried to open your favorite book, but couldn&rsquo;t find it anywhere! It&rsquo;s gone, they&rsquo;ve removed it from their portal. What happened? Again, the mighty DRM, which restricted your rights to keep a copy for yourself, is to blame. This has actually happened. In 2009, Amazon deleted George Orwell&rsquo;s 1984 and Animal Farm from its Kindle e-book store because the publisher changed it&rsquo;s mind about offering them in digital form. See the reference links at the bottom of this post for more information. Although the users were refunded, this still is a big problem, since Amazon can remove any book and <strong>revoke ownership</strong> as per their wish. There are even more issues with the concept of e-books. I recommend reading <a href="http://stallman.org/articles/ebooks.pdf">this article</a> by <a href="https://stallman.org/">Richard Stallman</a>. He is the founder of the Free Software Foundation, and his website should be read by people who are concerned about their privacy and rights.</p></li>
+</ul>
+
+<p>To summarize the issues with DRM:</p>
+
+<ul>
+<li>control over the content you&rsquo;ve paid for is not in your hands.</li>
+<li>requires you to repeatedly prove ownership.</li>
+<li>no guarantee of ownership</li>
+<li>access to content can be lost at any time.</li>
+<li>&hellip;and many more</li>
+</ul>
+
+<p><em>But how will the content creators get their daily bread if there&rsquo;s no DRM? People would just keep freeloading content!</em></p>
+
+<p>The current system supports the large companies, rather than authors. So even with DRM, they aren&rsquo;t being properly paid. The fact is, even with DRM, people will keep freeloading content.</p>
+
+<p>A great example of this is <a href="https://en.wikipedia.org/wiki/Spore_(2008_video_game)"><strong>Spore</strong></a>, a 2008 video game that came with DRM. The consequence of the DRM was that it became the most pirated game of 2008.
+Here&rsquo;s a <a href="https://torrentfreak.com/top-10-most-pirated-games-of-2008-081204/">TorrentFreak article</a> that lists out the top 10 most pirated games of 2008. Spore is on the top.
+The failure of DRM can be measured by how much a software or media content has been pirated.</p>
+
+<p>In July of 2017, the World Wide Web Consortium (W3C) has <a href="https://www.eff.org/deeplinks/2017/07/amid-unprecedented-controversy-w3c-greenlights-drm-web">greenlighted DRM for the web</a>. I&rsquo;ll quote a comment from reddit I somewhat remember, but I can&rsquo;t find the link to it at the moment.</p>
+
+<blockquote>
+<p>DRM probably would kill itself as it&rsquo;s getting more and more invasive and eventually people would stop buying DRM-protected content.</p>
+</blockquote>
+
+<p>I hope this day comes soon.</p>
+
+<p>In conclusion, DRM proves to be of no use rather than providing inconveniences to legitimate customers. If you are concerned about the content creators being paid, consider giving them direct donations, rather than relying on DRM.</p>
+
+<p><a href="https://fckdrm.com/">FCKDRM</a> is an initiative to promote DRM-free media. It lists DRM-free sources to get music, games, books, and videos. <a href="https://www.defectivebydesign.org/">Defective by Design</a> is another site to focussed on eliminating DRM. Here&rsquo;s the <a href="https://www.eff.org/issues/drm">Electronic Frontier Foundation&rsquo;s article</a> on DRM. EFF is a nonprofit organization defending civil liberties in the digital world.</p>
+
+<h4 id="reference-links">Reference links:</h4>
+
+<ul>
+<li><a href="https://youtu.be/M3bezYerYxQ">Linus Tech Tips&rsquo; Video</a></li>
+<li><a href="https://www.cnet.com/news/amazon-recalls-and-embodies-orwells-1984/">George Orwell&rsquo;s two books recalled from Kindle store</a></li>
+<li><a href="https://www.pcworld.com/article/169408/kindle.html">Lawsuit over George Orwell&rsquo;s 1984 deletion</a></li>
+<li><a href="https://stallman.org/">Richard Stallman&rsquo;s website</a></li>
+<li><a href="https://fckdrm.com/">FCKDRM</a></li>
+<li><a href="https://www.defectivebydesign.org/">Defective by Design</a></li>
+<li><a href="https://www.eff.org/issues/drm">Electronic Frontier Foundation&rsquo;s article on DRM</a></li>
+</ul>
+
+    
+</article> 
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="https://genericspecimen.github.io/blog/posts/foss/foss-android-applications/"><i class="fa fa-chevron-circle-left"></i> FOSS Android Applications</a>
+        </li>
+        
+        
+    </ul>
+</section>
+
+
+
+
+        </main>
+        <footer>
+            <h6>
+                 | Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> | <a href="https://genericspecimen.github.io/blog/index.xml">Subscribe</a></h6>
+            </h6>
+        </footer>
+    </div>
+</body>
+</html>

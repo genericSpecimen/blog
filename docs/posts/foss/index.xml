@@ -6,10 +6,19 @@
     <description>Recent content in FOSS on A generic blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 16:02:52 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 16:25:54 +0530</lastBuildDate>
     
 	<atom:link href="https://genericspecimen.github.io/blog/posts/foss/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digital Rights Management</title>
+      <link>https://genericspecimen.github.io/blog/posts/foss/digital_rights_management/</link>
+      <pubDate>Wed, 17 Oct 2018 16:25:54 +0530</pubDate>
+      
+      <guid>https://genericspecimen.github.io/blog/posts/foss/digital_rights_management/</guid>
+      <description>Digital rights management (DRM) is a term that is used to refer to technologies that restrict the usage of copyrighted material, including hardware and software. In layman&amp;rsquo;s terms, DRM controls how you can use your music, videos, games, books, etc (which you have acquired legally).</description>
+    </item>
     
     <item>
       <title>FOSS Android Applications</title>
