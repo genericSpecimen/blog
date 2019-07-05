@@ -6,7 +6,7 @@
     <description>Recent content in All posts on A generic blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 16:25:54 +0530</lastBuildDate>
     
 	<atom:link href="https://genericspecimen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,8 @@
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://genericspecimen.github.io/blog/about/</guid>
-      <description>This is a general purpose blog meant for documenting the things I learn and some posts would also double as tutorials.
-I started programming at the age of 16. Before that, I had a keen interest in Physics, which gradually faded since the computing world had already gotten a hold of my mind.</description>
+      <description>This is a general purpose blog meant for documenting the things I learn.
+Earlier life I started programming at the age of 16. My school introduced me to C++ (which actually was C, masqueraded as C++).</description>
     </item>
     
     <item>
